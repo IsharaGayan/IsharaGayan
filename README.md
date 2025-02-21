@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Software Engineering<br>🌐 Team Ups: GeneX Software Solutions<br>💬 Ask me about <br>⚡ Fun fact
+🌱 I’m currently learning Software Engineering<br>🌐 Team Ups: GeneX Software Solutions<br>💬 Ask me about Anything<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
