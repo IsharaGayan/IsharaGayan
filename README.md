@@ -21,15 +21,7 @@
 
 **Tools & Platforms**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,linux" />
-</p>
-
----
-
-## 🎨 Designing Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,linux,figma,ps,ai,canva" />
 </p>
 
 ---
