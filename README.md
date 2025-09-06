@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20I'm%20Ishara%20Gayan%20👋&fontSize=40&fontColor=ffffff" alt="header"/>
 </p>
 
----
 
 ## 👨‍💻 About Me
 - 🚀 Passionate about **Software Development, AI, and Mobile Apps**  
@@ -48,7 +47,6 @@
   <a href="https://github.com/IsharaGayan"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
----
 
 <!-- Footer -->
 <p align="center">
