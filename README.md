@@ -7,8 +7,8 @@
 
 ## 👨‍💻 About Me
 - 🚀 Passionate about **Software Development, AI, and Mobile Apps**  
-- 🎯 Currently working on **Skin Disease Classification & POS Systems**  
-- 📚 Learning **React Native, Flutter, and Hibernate**  
+- 🎯 Teams up with **GeneX Software Solutions**  
+- 📚 Learning **Java, React Native, And Flutter**  
 - ⚡ Fun fact: I love turning ideas into full-fledged projects!  
 
 ---
@@ -43,8 +43,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/isharagayan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:isharagayan899@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/IsharaGayan"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
