@@ -16,12 +16,20 @@
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,flutter,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,flutter,nodejs,mysql,php,c,cpp,dart,bootstrap" /> 
 </p>
 
 **Tools & Platforms**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,linux" />
+</p>
+
+---
+
+## 🎨 Designing Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" />
 </p>
 
 ---
