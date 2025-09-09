@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 - 🚀 Passionate about **Software Development, AI, and Mobile Apps**  
 - 🎯 Teams up with **GeneX Software Solutions**  
-- 📚 Learning **Java, React Native, And Flutter**  
+- 📚 Learning **Java, React Native, Python, Php And Flutter**  
 - ⚡ Fun fact: I love turning ideas into full-fledged projects!  
 
 ---
